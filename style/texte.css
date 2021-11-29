@@ -1,0 +1,52 @@
+#citation {
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+#presentation {
+    text-align: center;
+    font-style: normal;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 45px;
+}
+
+#intro {
+    text-align: center;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#arcane p{
+    font-family: 'Barlow Semi Condensed', sans-serif ;
+    font-weight: bold;
+    font-style: italic;    
+}
+
+
+.about_me {
+    display:block;
+    width:800px;
+    margin:0 auto 35px auto;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+  em {
+      font-style: normal;
+      text-decoration: underline;
+  }
+
+  .tech_intro {
+      text-align: center;
+      font-family: 'Barlow Semi Condensed', sans-serif;
+  }
+
+  
+  @media screen and (max-width: 800px) {
+
+  
+}

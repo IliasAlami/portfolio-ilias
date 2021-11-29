@@ -42,7 +42,7 @@ body{
   }
 
 .navbar ul li a:hover {
-    color: rgba(129, 129, 129, 0.568);
+    color: rgba(179, 179, 179, 0.568);
   }
 
   #arcane {
@@ -57,7 +57,9 @@ body{
     margin:0 auto 
   }
 
-  
+footer p {
+  padding-top: 170px;
+}  
 
 
 

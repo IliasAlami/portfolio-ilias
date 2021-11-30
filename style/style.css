@@ -77,6 +77,8 @@ section {
 }
 
 video {
+  padding-top: 50px;
+  padding-left: 100px;
   max-width: 400px;
   height: auto;
 }

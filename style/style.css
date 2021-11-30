@@ -61,7 +61,21 @@ footer p {
   padding-top: 170px;
 }  
 
+section {
+  padding-bottom: 40px;
+}
+
+
+@media screen and (max-width: 800px) {
+
+
+.navbar ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
 
 
-
+}

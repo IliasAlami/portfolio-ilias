@@ -76,6 +76,14 @@ section {
   align-items: center;
 }
 
+video {
+  max-width: 400px;
+  height: auto;
+}
 
+img {
+  max-width: 400px;
+  height: auto;
+}
 
 }
